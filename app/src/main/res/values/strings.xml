@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daftar Makanan Dan Minuman</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_poster_makanan">Makanan</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
+    <string name="msg_failed_Favorite">Gagal menjadi favorit</string>
+    <string name="failed_delete_favorite">Gagal menghapus favorit</string>
+    <string name="msg_success_Favorite">Ditambahkan ke favorit</string>
+    <string name="success_delete_favorite">Dihapus dari favorit</string>
+    <string name="Nama">Nama</string>
+    <string name="Deskripsi">Deskripsi</string>
+</resources>

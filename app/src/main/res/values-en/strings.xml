@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List Foods And Drinks</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="change_language_settings">Change Language Setting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_poster_makanan">Food</string>
+    <string name="makanan">Food</string>
+    <string name="minuman">Drink</string>
+    <string name="msg_failed_Favorite">Failed to make favorite</string>
+    <string name="failed_delete_favorite">Failed to delete favorite</string>
+    <string name="msg_success_Favorite">Added to favorite</string>
+    <string name="success_delete_favorite">Deleted from favorite</string>
+    <string name="Nama">Name</string>
+    <string name="Deskripsi">Description</string>
+</resources>
